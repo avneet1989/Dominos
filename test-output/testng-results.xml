@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14068" started-at="2021-01-24T09:37:39 EST" finished-at="2021-01-24T09:37:53 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14068" started-at="2021-01-24T09:37:39 EST" finished-at="2021-01-24T09:37:53 EST">
+      <class name="TestCases.DeliveryTest">
+        <test-method status="PASS" signature="initilizeDriver()[pri:0, instance:TestCases.DeliveryTest@61f8bee4]" name="initilizeDriver" is-config="true" duration-ms="8409" started-at="2021-01-24T09:37:39 EST" finished-at="2021-01-24T09:37:48 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizeDriver -->
+        <test-method status="PASS" signature="verifyDeliveryOption()[pri:0, instance:TestCases.DeliveryTest@61f8bee4]" name="verifyDeliveryOption" duration-ms="5625" started-at="2021-01-24T09:37:48 EST" finished-at="2021-01-24T09:37:53 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeliveryOption -->
+      </class> <!-- TestCases.DeliveryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
